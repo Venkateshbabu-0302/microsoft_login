@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "857658210283",
+    "project_id": "wealthflow-login",
+    "storage_bucket": "wealthflow-login.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:857658210283:android:2bc2ac3dbc4a59ed380bae",
+        "android_client_info": {
+          "package_name": "com.example.flutter_microsoft_login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "857658210283-dbr4bvjuqd2av78bm4hshj1jffsla04e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutter_microsoft_login",
+            "certificate_hash": "4b90bc6a59689dcc47e404cf9631a51318be54a1"
+          }
+        },
+        {
+          "client_id": "857658210283-ktidob97pq17rip9ljo033ccfde4o0a0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAt8JBTRaNhvoFUkj3N4PoD7m4LjflUK2k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "857658210283-ktidob97pq17rip9ljo033ccfde4o0a0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "857658210283-kkdqsg2cuoi18jfludnkhtothbf6mqai.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flutterMicrosoftLogin"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
